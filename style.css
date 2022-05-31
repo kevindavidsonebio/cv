@@ -1,0 +1,9 @@
+#workTable {
+  border-width: 2px;
+  border-spacing: 10px;
+}
+
+#skillTable {
+  border-style: none;
+  border-spacing: 10px;
+}
